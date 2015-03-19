@@ -1,0 +1,1 @@
+Block.defineBlock(blockid, "anyblockname" , [[block texture], [block texture], [block texture], [block texture], [block texture]]);
