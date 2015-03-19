@@ -1,0 +1,1 @@
+ModPE.setItem(itemid,"itemtexture",datavalue,"your items name");
